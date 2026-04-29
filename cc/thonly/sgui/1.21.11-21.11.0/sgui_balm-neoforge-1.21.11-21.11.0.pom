@@ -1,6 +1,6 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>cc.thonly</groupId>
-    <artifactId>keine-fabric</artifactId>
-    <version>1.0.0</version>
+    <artifactId>sgui_balm-neoforge</artifactId>
+    <version>1.21.11-21.11.0</version>
 </project>
